@@ -33,10 +33,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
    
 # Root access
 
-    ```
-    User     : FSID
-    Password : 8426
-    ```
+    自己fork自己更改账户名和脚本才能成功
 Please follow/star/fork in my project
 thx
   
